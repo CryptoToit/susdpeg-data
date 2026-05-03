@@ -1,0 +1,16 @@
+{
+  "as_of": "2026-05-03T14:48:14Z",
+  "days_since_unlock": 14,
+  "net_flow_24h": {
+    "susd_rewards": -340000.0,
+    "infinex": -82000.0
+  },
+  "net_flow_7d": {
+    "susd_rewards": -1820000.0,
+    "infinex": -510000.0
+  },
+  "unlocked_susd_total": 17018291,
+  "unlocked_susd_left_protective_venues": 13130000,
+  "exit_ratio_pct": 22.9,
+  "alert_level": "amber"
+}

@@ -1,0 +1,60 @@
+{
+  "as_of": "2026-05-03T14:48:14Z",
+  "kpis": [
+    {
+      "id": "treasury_reserves",
+      "label": "Synthetix Treasury reserves",
+      "actual": 5640017,
+      "target": null,
+      "unit": "USD",
+      "status": "verified",
+      "note": "Cumulative buyback accumulator at 0xFa1DF09…; refreshed live via on-chain balanceOf. Treasury Market aux mechanism feeds 20% of fees here as sUSD."
+    },
+    {
+      "id": "snx_in_420_pool",
+      "label": "SNX migrated to 420 Pool",
+      "actual": 0.62,
+      "target": 1.0,
+      "unit": "ratio",
+      "status": "stub",
+      "note": "Stubbed — 420 Pool migrate contract holds 0 SNX; real migration state lives in v3 Core Proxy. Recon §4 1b."
+    },
+    {
+      "id": "jubilee_burned",
+      "label": "Jubilee debt forgiven",
+      "actual": 41200000,
+      "target": 60000000,
+      "unit": "USD",
+      "status": "stub",
+      "note": "Stubbed pending team confirmation or contract-event log access. Recon §4 #4."
+    },
+    {
+      "id": "jubilee_phase",
+      "label": "Current jubilee phase",
+      "actual": "70%",
+      "target": "100% or peg ≥ $0.98",
+      "unit": "text",
+      "status": "stub",
+      "note": "Verify with Synthetix — published schedule (50% start + 10% biweekly per Rebuilding sUSD, 2026-02-12) implies phase should be at 100% cap by now. Peg never hit $0.98 stop condition. Recon §4 #1."
+    },
+    {
+      "id": "slp_fill",
+      "label": "SLP sUSD deposits",
+      "actual": 1450000,
+      "target": 15000000,
+      "unit": "USD",
+      "deadline": "2026-06-30",
+      "status": "closed",
+      "note": "Pre-deposit Season 2 has closed; new deposits paused until Q2 2026 public launch. Velocity scoring suppressed."
+    },
+    {
+      "id": "days_since_unlock",
+      "label": "Days since unlock event",
+      "actual": "14 days",
+      "target": null,
+      "unit": "text",
+      "status": "context",
+      "note": "Post-unlock window opened 2026-04-19 — see Sell-Pressure Radar."
+    }
+  ]
+}

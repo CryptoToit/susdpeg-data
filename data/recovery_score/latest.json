@@ -1,0 +1,48 @@
+{
+  "as_of": "2026-05-03T14:48:15Z",
+  "composite_score": 39,
+  "tier": "behind_pace",
+  "headline": "Recovery actively underway. Jubilee mechanism progressing through phase 70% and market signal is supportive (76% organic buying), with peg restoration and SLP fill as the primary near-term milestones.",
+  "subscores": [
+    {
+      "id": "peg",
+      "label": "Peg restoration",
+      "score": 23,
+      "weight": 0.35,
+      "value_text": "$0.7335 vs $0.98 recovery threshold",
+      "method": "scaled from $0.66 (depeg low) → $0.98 (staking-ratchet halt, per SIP-420)"
+    },
+    {
+      "id": "slp",
+      "label": "SLP fill",
+      "score": 10,
+      "weight": 0.2,
+      "value_text": "$1.45M / $15M by 2026-06-30",
+      "method": "actual / target × 100"
+    },
+    {
+      "id": "jubilee",
+      "label": "Jubilee progress",
+      "score": 70,
+      "weight": 0.15,
+      "value_text": "Phase 70% (target: 100% or peg ≥ $0.98)",
+      "method": "current phase % directly"
+    },
+    {
+      "id": "buy_comp",
+      "label": "Buy composition health",
+      "score": 76,
+      "weight": 0.15,
+      "value_text": "76% organic (24h)",
+      "method": "organic share × 100 — market belief signal"
+    },
+    {
+      "id": "flow",
+      "label": "Net flow trend",
+      "score": 50,
+      "weight": 0.15,
+      "value_text": "Amber: post-unlock outflow at 22.9% exit ratio",
+      "method": "Sell-Pressure Radar alert level → green=90 / amber=50 / red=20"
+    }
+  ]
+}
