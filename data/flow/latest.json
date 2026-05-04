@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-04T22:28:29Z",
+  "as_of": "2026-05-04T22:42:38Z",
   "total_supply_susd": 52528751,
   "nodes": [
     {
@@ -20,12 +20,12 @@
     {
       "id": "free",
       "label": "Free-floating EOAs (CEX <0.3%)",
-      "value": 17098900
+      "value": 17098582
     },
     {
       "id": "dex_liquidity",
       "label": "DEX Liquidity",
-      "value": 5631011
+      "value": 5631329
     },
     {
       "id": "treasury",
@@ -50,7 +50,7 @@
     {
       "id": "velo_usdc_susd",
       "label": "Velodrome V2 USDC/sUSD",
-      "value": 323068
+      "value": 323386
     },
     {
       "id": "uni_susd_weth",
@@ -82,12 +82,12 @@
     {
       "from": "supply",
       "to": "free",
-      "value": 17098900
+      "value": 17098582
     },
     {
       "from": "supply",
       "to": "dex_liquidity",
-      "value": 5631011
+      "value": 5631329
     },
     {
       "from": "supply",
@@ -112,7 +112,7 @@
     {
       "from": "dex_liquidity",
       "to": "velo_usdc_susd",
-      "value": 323068
+      "value": 323386
     },
     {
       "from": "dex_liquidity",
@@ -133,13 +133,13 @@
   "delta_24h": {
     "420_jubilee": 1415,
     "infinex": 0,
-    "free": -16851,
-    "dex_liquidity": 15436,
+    "free": -17169,
+    "dex_liquidity": 15754,
     "treasury": 0,
     "slp": 0,
     "curve_susde": 3504,
     "uni_susd_snx": -3652,
-    "velo_usdc_susd": 1863,
+    "velo_usdc_susd": 2181,
     "uni_susd_weth": 1142,
     "sushi_susd_weth": 587,
     "dex_other": 11992

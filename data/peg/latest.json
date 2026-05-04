@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-04T22:28:15Z",
+  "as_of": "2026-05-04T22:42:22Z",
   "reference": {
     "source": "DefiLlama (cross-venue aggregator)",
     "price_usd": 0.7313
@@ -28,10 +28,10 @@
       "name": "Velodrome V2 USDC/sUSD",
       "dex": "velodrome",
       "chain": "Optimism",
-      "price_usd": 0.7318,
-      "depth_usd": 323068,
+      "price_usd": 0.7325,
+      "depth_usd": 323386,
       "pool_address": "0xbC26519f936A90E78fe2C9aA2A03CC208f041234",
-      "volume_24h_usd": 4314
+      "volume_24h_usd": 4319
     },
     {
       "name": "Uniswap V2 sUSD/WETH",
@@ -69,7 +69,7 @@
       "price_usd": 0.7313,
       "depth_usd": 73473,
       "pool_address": "0x061b87122Ed14b9526A813209C8a59a633257bAb",
-      "volume_24h_usd": 202
+      "volume_24h_usd": 200
     },
     {
       "name": "Curve sUSD/crvUSD",
