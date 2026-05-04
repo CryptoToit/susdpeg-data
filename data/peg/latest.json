@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-04T20:56:20Z",
+  "as_of": "2026-05-04T21:00:24Z",
   "reference": {
     "source": "DefiLlama (cross-venue aggregator)",
     "price_usd": 0.7323
@@ -28,8 +28,8 @@
       "name": "Velodrome V2 USDC/sUSD",
       "dex": "velodrome",
       "chain": "Optimism",
-      "price_usd": 0.7331,
-      "depth_usd": 323505,
+      "price_usd": 0.7323,
+      "depth_usd": 323258,
       "pool_address": "0xbC26519f936A90E78fe2C9aA2A03CC208f041234",
       "volume_24h_usd": 4272
     },
@@ -91,6 +91,6 @@
       "volume_24h_usd": 616
     }
   ],
-  "weighted_avg_price_usd": 0.7276,
-  "depeg_basis_points": -2724
+  "weighted_avg_price_usd": 0.7275,
+  "depeg_basis_points": -2725
 }
