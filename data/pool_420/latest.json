@@ -1,7 +1,7 @@
 {
-  "as_of": "2026-05-04T13:34:56Z",
+  "as_of": "2026-05-04T13:48:56Z",
   "pool_id": 8,
-  "susd_total": 18497425,
+  "susd_total": 18498561,
   "chains": [
     {
       "chain": "ethereum",
@@ -32,10 +32,10 @@
         {
           "address": "0xFa1DF09D8d09D6E8FAB2a6C4712fEa02ce203e99",
           "label": "Synthetix Treasury (aux recipient)",
-          "susd_amount": 6729730
+          "susd_amount": 6730866
         }
       ],
-      "susd_total": 6743609,
+      "susd_total": 6744745,
       "snx_amount": 0.0,
       "snx_value_usd": 0
     }
