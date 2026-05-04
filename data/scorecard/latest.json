@@ -1,14 +1,14 @@
 {
-  "as_of": "2026-05-04T10:32:23Z",
+  "as_of": "2026-05-04T10:46:23Z",
   "kpis": [
     {
       "id": "treasury_reserves",
-      "label": "Synthetix Treasury reserves",
+      "label": "420 Pool aux-recipient (Mainnet)",
       "actual": 5640017,
       "target": null,
       "unit": "USD",
       "status": "verified",
-      "note": "Cumulative buyback accumulator at 0xFa1DF09…; refreshed live via on-chain balanceOf. Treasury Market aux mechanism feeds 20% of fees here as sUSD."
+      "note": "sUSD held at 0xFa1DF09… on Mainnet — the Treasury Market `aux_recipient` for the 420 Pool / Simple sUSD Staking Rewards program. Live balanceOf. This is one of two Treasury wallets holding the program's locked sUSD; see the 420 Pool bucket in the Capital Flow Map for the chain-wide total."
     },
     {
       "id": "snx_in_420_pool",
@@ -40,12 +40,12 @@
     {
       "id": "slp_fill",
       "label": "SLP sUSD deposits",
-      "actual": 1450000,
+      "actual": 0,
       "target": 15000000,
       "unit": "USD",
       "deadline": "2026-06-30",
       "status": "closed",
-      "note": "Pre-deposit Season 2 has closed; new deposits paused until Q2 2026 public launch. Velocity scoring suppressed."
+      "note": "Synthetix team confirmed (2026-05-04) the SLP Vault is in private/internal mode with no published TVL. Public launch planned Q2 2026, official target $15M sUSD by 2026-06-30. Earlier $1.45M placeholder dropped — unsourced."
     },
     {
       "id": "days_since_unlock",
