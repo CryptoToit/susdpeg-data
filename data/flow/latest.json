@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-04T00:42:57Z",
+  "as_of": "2026-05-04T00:56:59Z",
   "total_supply_susd": 52528751,
   "nodes": [
     {
@@ -143,14 +143,14 @@
   "delta_24h": {
     "susd_rewards": 0,
     "infinex": 0,
-    "free": 5119,
-    "dex_liquidity": -5119,
+    "free": 0,
+    "dex_liquidity": 0,
     "treasury": 0,
     "420_jubilee": 0,
     "slp": 0,
-    "curve_susde": -5108,
+    "curve_susde": 0,
     "uni_susd_snx": 0,
-    "velo_usdc_susd": -11,
+    "velo_usdc_susd": 0,
     "uni_susd_weth": 0,
     "sushi_susd_weth": 0,
     "dex_other": 0
