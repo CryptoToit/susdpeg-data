@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-04T08:26:04Z",
+  "as_of": "2026-05-04T08:40:04Z",
   "reference": {
     "source": "DefiLlama (cross-venue aggregator)",
     "price_usd": 0.7341
@@ -31,7 +31,7 @@
       "price_usd": 0.7343,
       "depth_usd": 321831,
       "pool_address": "0xbC26519f936A90E78fe2C9aA2A03CC208f041234",
-      "volume_24h_usd": 5975
+      "volume_24h_usd": 5968
     },
     {
       "name": "Uniswap V2 sUSD/WETH",
