@@ -1,11 +1,11 @@
 {
-  "as_of": "2026-05-04T22:14:34Z",
+  "as_of": "2026-05-04T22:28:29Z",
   "windows": {
     "24h": {
       "total": {
-        "sell_susd": 16134,
-        "buy_susd": 8381,
-        "net_susd": -7753
+        "sell_susd": 16043,
+        "buy_susd": 8334,
+        "net_susd": -7709
       },
       "venues": [
         {
@@ -13,8 +13,8 @@
           "dex": "curve",
           "label": "Curve sUSD/sUSDe",
           "chain": "Ethereum",
-          "sell_susd": 7282,
-          "buy_susd": 3641
+          "sell_susd": 7195,
+          "buy_susd": 3597
         },
         {
           "id": "uni_susd_snx",
@@ -29,8 +29,8 @@
           "dex": "velodrome",
           "label": "Velodrome V2 USDC/sUSD",
           "chain": "Optimism",
-          "sell_susd": 2784,
-          "buy_susd": 1537
+          "sell_susd": 2780,
+          "buy_susd": 1534
         },
         {
           "id": "uni_susd_weth",
@@ -62,16 +62,16 @@
         "WETH": 0.06
       },
       "buy_split": {
-        "programmatic_susd": 2011,
-        "organic_susd": 6370,
+        "programmatic_susd": 2000,
+        "organic_susd": 6334,
         "programmatic_share": 0.24
       }
     },
     "7d": {
       "total": {
-        "sell_susd": 112950,
-        "buy_susd": 58655,
-        "net_susd": -54295
+        "sell_susd": 112307,
+        "buy_susd": 58332,
+        "net_susd": -53975
       },
       "venues": [
         {
@@ -79,8 +79,8 @@
           "dex": "curve",
           "label": "Curve sUSD/sUSDe",
           "chain": "Ethereum",
-          "sell_susd": 50977,
-          "buy_susd": 25484
+          "sell_susd": 50365,
+          "buy_susd": 25179
         },
         {
           "id": "uni_susd_snx",
@@ -95,8 +95,8 @@
           "dex": "velodrome",
           "label": "Velodrome V2 USDC/sUSD",
           "chain": "Optimism",
-          "sell_susd": 19491,
-          "buy_susd": 10756
+          "sell_susd": 19460,
+          "buy_susd": 10738
         },
         {
           "id": "uni_susd_weth",
@@ -128,8 +128,8 @@
         "WETH": 0.06
       },
       "buy_split": {
-        "programmatic_susd": 14019,
-        "organic_susd": 44636,
+        "programmatic_susd": 13941,
+        "organic_susd": 44391,
         "programmatic_share": 0.239
       }
     }
