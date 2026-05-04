@@ -1,11 +1,11 @@
 {
-  "as_of": "2026-05-04T06:05:44Z",
+  "as_of": "2026-05-04T06:19:43Z",
   "windows": {
     "24h": {
       "total": {
-        "sell_susd": 15580,
-        "buy_susd": 8566,
-        "net_susd": -7014
+        "sell_susd": 15584,
+        "buy_susd": 8568,
+        "net_susd": -7016
       },
       "venues": [
         {
@@ -29,15 +29,15 @@
           "dex": "velodrome",
           "label": "Velodrome V2 USDC/sUSD",
           "chain": "Optimism",
-          "sell_susd": 3827,
-          "buy_susd": 2112
+          "sell_susd": 3832,
+          "buy_susd": 2114
         },
         {
           "id": "uni_susd_weth",
           "dex": "uniswap",
           "label": "Uniswap V2 sUSD/WETH",
           "chain": "Ethereum",
-          "sell_susd": 1584,
+          "sell_susd": 1583,
           "buy_susd": 853
         },
         {
@@ -63,15 +63,15 @@
       },
       "buy_split": {
         "programmatic_susd": 2056,
-        "organic_susd": 6510,
+        "organic_susd": 6512,
         "programmatic_share": 0.24
       }
     },
     "7d": {
       "total": {
-        "sell_susd": 109059,
-        "buy_susd": 59963,
-        "net_susd": -49096
+        "sell_susd": 109086,
+        "buy_susd": 59978,
+        "net_susd": -49108
       },
       "venues": [
         {
@@ -95,16 +95,16 @@
           "dex": "velodrome",
           "label": "Velodrome V2 USDC/sUSD",
           "chain": "Optimism",
-          "sell_susd": 26790,
-          "buy_susd": 14783
+          "sell_susd": 26821,
+          "buy_susd": 14801
         },
         {
           "id": "uni_susd_weth",
           "dex": "uniswap",
           "label": "Uniswap V2 sUSD/WETH",
           "chain": "Ethereum",
-          "sell_susd": 11088,
-          "buy_susd": 5971
+          "sell_susd": 11084,
+          "buy_susd": 5968
         },
         {
           "id": "sushi_susd_weth",
@@ -128,8 +128,8 @@
         "WETH": 0.06
       },
       "buy_split": {
-        "programmatic_susd": 14331,
-        "organic_susd": 45632,
+        "programmatic_susd": 14335,
+        "organic_susd": 45643,
         "programmatic_share": 0.239
       }
     }
