@@ -1,8 +1,8 @@
 {
-  "as_of": "2026-05-04T13:20:45Z",
+  "as_of": "2026-05-04T13:34:49Z",
   "reference": {
     "source": "DefiLlama (cross-venue aggregator)",
-    "price_usd": 0.7275
+    "price_usd": 0.7277
   },
   "venues": [
     {
@@ -28,10 +28,10 @@
       "name": "Velodrome V2 USDC/sUSD",
       "dex": "velodrome",
       "chain": "Optimism",
-      "price_usd": 0.7302,
-      "depth_usd": 320558,
+      "price_usd": 0.7295,
+      "depth_usd": 320366,
       "pool_address": "0xbC26519f936A90E78fe2C9aA2A03CC208f041234",
-      "volume_24h_usd": 1743
+      "volume_24h_usd": 1741
     },
     {
       "name": "Uniswap V2 sUSD/WETH",
@@ -66,8 +66,8 @@
       "name": "Curve sUSD/3CRV",
       "dex": "curve",
       "chain": "Optimism",
-      "price_usd": 0.7275,
-      "depth_usd": 73546,
+      "price_usd": 0.7277,
+      "depth_usd": 73474,
       "pool_address": "0x061b87122Ed14b9526A813209C8a59a633257bAb",
       "volume_24h_usd": 79
     },
