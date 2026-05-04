@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-04T22:42:22Z",
+  "as_of": "2026-05-04T22:56:22Z",
   "reference": {
     "source": "DefiLlama (cross-venue aggregator)",
     "price_usd": 0.7313
@@ -12,7 +12,7 @@
       "price_usd": 0.7284,
       "depth_usd": 3716863,
       "pool_address": "0x4b5E827F4C0a1042272a11857a355dA1F4Ceebae",
-      "volume_24h_usd": 10792
+      "volume_24h_usd": 10575
     },
     {
       "name": "Uniswap V3 sUSD/SNX",
@@ -29,9 +29,9 @@
       "dex": "velodrome",
       "chain": "Optimism",
       "price_usd": 0.7325,
-      "depth_usd": 323386,
+      "depth_usd": 323380,
       "pool_address": "0xbC26519f936A90E78fe2C9aA2A03CC208f041234",
-      "volume_24h_usd": 4319
+      "volume_24h_usd": 4315
     },
     {
       "name": "Uniswap V2 sUSD/WETH",
@@ -41,7 +41,7 @@
       "depth_usd": 141482,
       "pair_kind": "non-stable",
       "pool_address": "0xf80758aB42C3B07dA84053Fd88804bCB6BAA4b5c",
-      "volume_24h_usd": 2085
+      "volume_24h_usd": 1986
     },
     {
       "name": "Sushiswap sUSD/WETH",
@@ -51,7 +51,7 @@
       "depth_usd": 127209,
       "pair_kind": "non-stable",
       "pool_address": "0xF1F85b2C54a2bD284B1cf4141D64fD171Bd85539",
-      "volume_24h_usd": 2409
+      "volume_24h_usd": 2291
     },
     {
       "name": "Uniswap V3 sUSD/DAI",
@@ -69,7 +69,7 @@
       "price_usd": 0.7313,
       "depth_usd": 73473,
       "pool_address": "0x061b87122Ed14b9526A813209C8a59a633257bAb",
-      "volume_24h_usd": 200
+      "volume_24h_usd": 201
     },
     {
       "name": "Curve sUSD/crvUSD",
