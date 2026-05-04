@@ -1,8 +1,8 @@
 {
-  "as_of": "2026-05-04T04:41:31Z",
+  "as_of": "2026-05-04T04:55:32Z",
   "reference": {
     "source": "DefiLlama (cross-venue aggregator)",
-    "price_usd": 0.7349
+    "price_usd": 0.7347
   },
   "venues": [
     {
@@ -29,9 +29,9 @@
       "dex": "velodrome",
       "chain": "Optimism",
       "price_usd": 0.735,
-      "depth_usd": 322010,
+      "depth_usd": 322000,
       "pool_address": "0xbC26519f936A90E78fe2C9aA2A03CC208f041234",
-      "volume_24h_usd": 5956
+      "volume_24h_usd": 5961
     },
     {
       "name": "Uniswap V2 sUSD/WETH",
@@ -66,7 +66,7 @@
       "name": "Curve sUSD/3CRV",
       "dex": "curve",
       "chain": "Optimism",
-      "price_usd": 0.7349,
+      "price_usd": 0.7347,
       "depth_usd": 73605,
       "pool_address": "0x061b87122Ed14b9526A813209C8a59a633257bAb",
       "volume_24h_usd": 284
@@ -84,13 +84,13 @@
       "name": "Uniswap V3 WETH/sUSD",
       "dex": "uniswap",
       "chain": "Optimism",
-      "price_usd": 0.7378,
-      "depth_usd": 11693,
+      "price_usd": 0.7357,
+      "depth_usd": 11660,
       "pair_kind": "non-stable",
       "pool_address": "0x2E80d5A7B3C613d854EE43243Ff09808108561EB",
       "volume_24h_usd": 378
     }
   ],
-  "weighted_avg_price_usd": 0.7339,
-  "depeg_basis_points": -2661
+  "weighted_avg_price_usd": 0.7338,
+  "depeg_basis_points": -2662
 }
