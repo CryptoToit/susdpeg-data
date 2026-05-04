@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-04T00:14:53Z",
+  "as_of": "2026-05-04T00:28:56Z",
   "reference": {
     "source": "DefiLlama (cross-venue aggregator)",
     "price_usd": 0.7299
@@ -12,7 +12,7 @@
       "price_usd": 0.7271,
       "depth_usd": 3710197,
       "pool_address": "0x4b5E827F4C0a1042272a11857a355dA1F4Ceebae",
-      "volume_24h_usd": 8411
+      "volume_24h_usd": 7948
     },
     {
       "name": "Uniswap V3 sUSD/SNX",
@@ -22,16 +22,16 @@
       "depth_usd": 1152268,
       "pair_kind": "non-stable",
       "pool_address": "0xA3ccaf08a54Cf31649f91aE1570A0720C8d4EB1E",
-      "volume_24h_usd": 8353
+      "volume_24h_usd": 7885
     },
     {
       "name": "Velodrome V2 USDC/sUSD",
       "dex": "velodrome",
       "chain": "Optimism",
       "price_usd": 0.7346,
-      "depth_usd": 321935,
+      "depth_usd": 321939,
       "pool_address": "0xbC26519f936A90E78fe2C9aA2A03CC208f041234",
-      "volume_24h_usd": 5706
+      "volume_24h_usd": 5717
     },
     {
       "name": "Uniswap V2 sUSD/WETH",
@@ -47,11 +47,11 @@
       "name": "Sushiswap sUSD/WETH",
       "dex": "sushiswap",
       "chain": "Ethereum",
-      "price_usd": 0.7331,
-      "depth_usd": 127837,
+      "price_usd": 0.7242,
+      "depth_usd": 125929,
       "pair_kind": "non-stable",
       "pool_address": "0xF1F85b2C54a2bD284B1cf4141D64fD171Bd85539",
-      "volume_24h_usd": 934
+      "volume_24h_usd": 1116
     },
     {
       "name": "Uniswap V3 sUSD/DAI",
@@ -67,7 +67,7 @@
       "dex": "curve",
       "chain": "Optimism",
       "price_usd": 0.7299,
-      "depth_usd": 73555,
+      "depth_usd": 73563,
       "pool_address": "0x061b87122Ed14b9526A813209C8a59a633257bAb",
       "volume_24h_usd": 273
     },
@@ -84,13 +84,13 @@
       "name": "Uniswap V3 WETH/sUSD",
       "dex": "uniswap",
       "chain": "Optimism",
-      "price_usd": 0.7323,
-      "depth_usd": 11491,
+      "price_usd": 0.7325,
+      "depth_usd": 11482,
       "pair_kind": "non-stable",
       "pool_address": "0x2E80d5A7B3C613d854EE43243Ff09808108561EB",
-      "volume_24h_usd": 248
+      "volume_24h_usd": 255
     }
   ],
-  "weighted_avg_price_usd": 0.7293,
-  "depeg_basis_points": -2707
+  "weighted_avg_price_usd": 0.7291,
+  "depeg_basis_points": -2709
 }
