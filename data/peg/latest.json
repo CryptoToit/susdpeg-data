@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-04T09:08:08Z",
+  "as_of": "2026-05-04T09:22:11Z",
   "reference": {
     "source": "DefiLlama (cross-venue aggregator)",
     "price_usd": 0.7331
@@ -84,8 +84,8 @@
       "name": "Uniswap V3 WETH/sUSD",
       "dex": "uniswap",
       "chain": "Optimism",
-      "price_usd": 0.7358,
-      "depth_usd": 11624,
+      "price_usd": 0.7329,
+      "depth_usd": 11579,
       "pair_kind": "non-stable",
       "pool_address": "0x2E80d5A7B3C613d854EE43243Ff09808108561EB",
       "volume_24h_usd": 438
