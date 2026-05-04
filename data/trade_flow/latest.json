@@ -1,11 +1,11 @@
 {
-  "as_of": "2026-05-04T14:17:13Z",
+  "as_of": "2026-05-04T14:29:03Z",
   "windows": {
     "24h": {
       "total": {
-        "sell_susd": 14555,
-        "buy_susd": 7844,
-        "net_susd": -6711
+        "sell_susd": 14559,
+        "buy_susd": 7847,
+        "net_susd": -6712
       },
       "venues": [
         {
@@ -29,8 +29,8 @@
           "dex": "velodrome",
           "label": "Velodrome V2 USDC/sUSD",
           "chain": "Optimism",
-          "sell_susd": 1152,
-          "buy_susd": 635
+          "sell_susd": 1156,
+          "buy_susd": 638
         },
         {
           "id": "uni_susd_weth",
@@ -63,15 +63,15 @@
       },
       "buy_split": {
         "programmatic_susd": 1883,
-        "organic_susd": 5961,
+        "organic_susd": 5964,
         "programmatic_share": 0.24
       }
     },
     "7d": {
       "total": {
-        "sell_susd": 101888,
-        "buy_susd": 54905,
-        "net_susd": -46983
+        "sell_susd": 101919,
+        "buy_susd": 54923,
+        "net_susd": -46996
       },
       "venues": [
         {
@@ -95,8 +95,8 @@
           "dex": "velodrome",
           "label": "Velodrome V2 USDC/sUSD",
           "chain": "Optimism",
-          "sell_susd": 8061,
-          "buy_susd": 4448
+          "sell_susd": 8092,
+          "buy_susd": 4466
         },
         {
           "id": "uni_susd_weth",
@@ -128,8 +128,8 @@
         "WETH": 0.06
       },
       "buy_split": {
-        "programmatic_susd": 13122,
-        "organic_susd": 41783,
+        "programmatic_susd": 13127,
+        "organic_susd": 41796,
         "programmatic_share": 0.239
       }
     }
