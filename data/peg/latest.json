@@ -1,8 +1,8 @@
 {
-  "as_of": "2026-05-04T06:33:48Z",
+  "as_of": "2026-05-04T06:47:48Z",
   "reference": {
     "source": "DefiLlama (cross-venue aggregator)",
-    "price_usd": 0.7345
+    "price_usd": 0.7341
   },
   "venues": [
     {
@@ -60,13 +60,13 @@
       "price_usd": 0.7344,
       "depth_usd": 89954,
       "pool_address": "0xAdb35413eC50E0Afe41039eaC8B930d313E94FA4",
-      "volume_24h_usd": 47
+      "volume_24h_usd": 46
     },
     {
       "name": "Curve sUSD/3CRV",
       "dex": "curve",
       "chain": "Optimism",
-      "price_usd": 0.7345,
+      "price_usd": 0.7341,
       "depth_usd": 73664,
       "pool_address": "0x061b87122Ed14b9526A813209C8a59a633257bAb",
       "volume_24h_usd": 287
