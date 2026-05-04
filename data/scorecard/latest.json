@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-04T11:42:31Z",
+  "as_of": "2026-05-04T11:56:36Z",
   "kpis": [
     {
       "id": "treasury_reserves",
@@ -22,20 +22,20 @@
     {
       "id": "jubilee_burned",
       "label": "Jubilee debt forgiven",
-      "actual": 41200000,
+      "actual": 0,
       "target": 60000000,
       "unit": "USD",
-      "status": "stub",
-      "note": "Stubbed pending team confirmation or contract-event log access. Recon §4 #4."
+      "status": "verified",
+      "note": "Live cumulative sum of TreasuryBurned events on TreasuryMarketProxy 0x7b952507306E7D983bcFe6942Ac9F2f75C1332D8 over the last 200k Mainnet blocks (~28 days, covers the entire post-2026-04-19 unlock period). Currently $0. Synthetix team confirmed (2026-05-04): the jubilee IS active but gated on each staker maintaining ≥20% of their original debt in sUSD. If the staker drops below 20%, burning pauses until they top up. Burns linear over 12 months for eligible accounts. $0 cumulative reflects most stakers being below the 20% threshold; the figure will rise as accounts top up to 20%+. Earlier $41.2M / $60M target stub was speculative."
     },
     {
       "id": "jubilee_phase",
       "label": "Current jubilee phase",
-      "actual": "70%",
-      "target": "100% or peg ≥ $0.98",
+      "actual": "Phase 2 — sUSD staking past $10M (live $18.5M)",
+      "target": null,
       "unit": "text",
-      "status": "stub",
-      "note": "Verify with Synthetix — published schedule (50% start + 10% biweekly per Rebuilding sUSD, 2026-02-12) implies phase should be at 100% cap by now. Peg never hit $0.98 stop condition. Recon §4 #1."
+      "status": "context",
+      "note": "Synthetix team clarified (2026-05-04): the only on-record 'phase' framework is Phase 1 (Debt Migration complete) → Phase 2 (sUSD staking progress toward $10M target). NOT a numeric percentage — the 'Rebuilding sUSD' blog's 50%+10% biweekly schedule was either marketing simplification or referring to a different schedule. We're past the $10M staking target (verified $18.5M locked across the 2 Treasury wallets), so Phase 2's stated goal is satisfied. Phase 3 not on record."
     },
     {
       "id": "slp_fill",
