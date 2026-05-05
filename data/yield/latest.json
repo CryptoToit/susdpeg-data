@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-05T05:14:41Z",
+  "as_of": "2026-05-05T05:28:37Z",
   "venues": [
     {
       "id": "infinex",
@@ -20,17 +20,17 @@
     {
       "id": "buy_hold_peg",
       "label": "Buy & hold to peg",
-      "apr_pct_implied": 36.5,
+      "apr_pct_implied": 36.3,
       "lock": "none",
-      "risk_note": "36.5% gross at $0.7325 → $1.00; annualized depends on time-to-peg (12mo horizon shown)",
+      "risk_note": "36.3% gross at $0.7336 → $1.00; annualized depends on time-to-peg (12mo horizon shown)",
       "status": "theoretical"
     },
     {
       "id": "burn_debt",
       "label": "Burn sUSD to repay SNX debt",
-      "apr_pct_implied": 36.5,
+      "apr_pct_implied": 36.3,
       "lock": "n/a",
-      "risk_note": "one-shot — pays $1 of debt forgiveness per $0.7325 of sUSD",
+      "risk_note": "one-shot — pays $1 of debt forgiveness per $0.7336 of sUSD",
       "status": "theoretical",
       "audience": "SNX stakers only"
     },

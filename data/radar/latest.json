@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-05T05:14:40Z",
+  "as_of": "2026-05-05T05:28:36Z",
   "days_since_unlock": 16,
   "net_flow_24h": {
     "ethereum": -0.0,
@@ -9,8 +9,8 @@
     "ethereum": -1532.56,
     "optimism": -0.0
   },
-  "unlocked_susd_total": 18498840,
-  "unlocked_susd_left_protective_venues": 18497307,
+  "unlocked_susd_total": 18500600,
+  "unlocked_susd_left_protective_venues": 18499067,
   "exit_ratio_pct": 0.01,
   "alert_level": "green"
 }
