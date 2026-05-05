@@ -1,11 +1,11 @@
 {
-  "as_of": "2026-05-05T02:56:38Z",
+  "as_of": "2026-05-05T03:00:29Z",
   "windows": {
     "24h": {
       "total": {
-        "sell_susd": 12159,
-        "buy_susd": 6245,
-        "net_susd": -5914
+        "sell_susd": 11740,
+        "buy_susd": 6036,
+        "net_susd": -5704
       },
       "venues": [
         {
@@ -13,8 +13,8 @@
           "dex": "curve",
           "label": "Curve sUSD/sUSDe",
           "chain": "Ethereum",
-          "sell_susd": 5550,
-          "buy_susd": 2774
+          "sell_susd": 5131,
+          "buy_susd": 2565
         },
         {
           "id": "uni_susd_snx",
@@ -62,16 +62,16 @@
         "WETH": 0.06
       },
       "buy_split": {
-        "programmatic_susd": 1499,
-        "organic_susd": 4746,
+        "programmatic_susd": 1449,
+        "organic_susd": 4587,
         "programmatic_share": 0.24
       }
     },
     "7d": {
       "total": {
-        "sell_susd": 85109,
-        "buy_susd": 43719,
-        "net_susd": -41390
+        "sell_susd": 82178,
+        "buy_susd": 42254,
+        "net_susd": -39924
       },
       "venues": [
         {
@@ -79,8 +79,8 @@
           "dex": "curve",
           "label": "Curve sUSD/sUSDe",
           "chain": "Ethereum",
-          "sell_susd": 38847,
-          "buy_susd": 19421
+          "sell_susd": 35916,
+          "buy_susd": 17956
         },
         {
           "id": "uni_susd_snx",
@@ -128,8 +128,8 @@
         "WETH": 0.06
       },
       "buy_split": {
-        "programmatic_susd": 10449,
-        "organic_susd": 33270,
+        "programmatic_susd": 10099,
+        "organic_susd": 32155,
         "programmatic_share": 0.239
       }
     }
