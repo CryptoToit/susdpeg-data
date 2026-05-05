@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-05T06:28:46Z",
+  "as_of": "2026-05-05T06:42:55Z",
   "total_supply_susd": 52528751,
   "nodes": [
     {
@@ -20,12 +20,12 @@
     {
       "id": "free",
       "label": "Free-floating EOAs (CEX <0.3%)",
-      "value": 17094027
+      "value": 17095020
     },
     {
       "id": "dex_liquidity",
       "label": "DEX Liquidity",
-      "value": 5634124
+      "value": 5633131
     },
     {
       "id": "treasury",
@@ -40,7 +40,7 @@
     {
       "id": "curve_susde",
       "label": "Curve sUSD/sUSDe",
-      "value": 3726690
+      "value": 3726318
     },
     {
       "id": "uni_susd_snx",
@@ -50,12 +50,12 @@
     {
       "id": "velo_usdc_susd",
       "label": "Velodrome V2 USDC/sUSD",
-      "value": 323746
+      "value": 322975
     },
     {
       "id": "uni_susd_weth",
       "label": "Uniswap V2 sUSD/WETH",
-      "value": 142196
+      "value": 142346
     },
     {
       "id": "sushi_susd_weth",
@@ -82,12 +82,12 @@
     {
       "from": "supply",
       "to": "free",
-      "value": 17094027
+      "value": 17095020
     },
     {
       "from": "supply",
       "to": "dex_liquidity",
-      "value": 5634124
+      "value": 5633131
     },
     {
       "from": "supply",
@@ -102,7 +102,7 @@
     {
       "from": "dex_liquidity",
       "to": "curve_susde",
-      "value": 3726690
+      "value": 3726318
     },
     {
       "from": "dex_liquidity",
@@ -112,12 +112,12 @@
     {
       "from": "dex_liquidity",
       "to": "velo_usdc_susd",
-      "value": 323746
+      "value": 322975
     },
     {
       "from": "dex_liquidity",
       "to": "uni_susd_weth",
-      "value": 142196
+      "value": 142346
     },
     {
       "from": "dex_liquidity",
@@ -133,14 +133,14 @@
   "delta_24h": {
     "420_jubilee": 3175,
     "infinex": 0,
-    "free": -21724,
-    "dex_liquidity": 18549,
+    "free": -20731,
+    "dex_liquidity": 17556,
     "treasury": 0,
     "slp": 0,
-    "curve_susde": 13331,
+    "curve_susde": 12959,
     "uni_susd_snx": -906,
-    "velo_usdc_susd": 2541,
-    "uni_susd_weth": 1856,
+    "velo_usdc_susd": 1770,
+    "uni_susd_weth": 2006,
     "sushi_susd_weth": 1519,
     "dex_other": 208
   },
