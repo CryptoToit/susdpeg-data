@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-05-05T13:14:24Z",
+  "as_of": "2026-05-05T13:28:22Z",
   "reference": {
     "source": "DefiLlama (cross-venue aggregator)",
     "price_usd": 0.7336
@@ -9,10 +9,10 @@
       "name": "Curve sUSD/sUSDe",
       "dex": "curve",
       "chain": "Ethereum",
-      "price_usd": 0.7279,
-      "depth_usd": 3710692,
+      "price_usd": 0.7303,
+      "depth_usd": 3722323,
       "pool_address": "0x4b5E827F4C0a1042272a11857a355dA1F4Ceebae",
-      "volume_24h_usd": 10142
+      "volume_24h_usd": 11142
     },
     {
       "name": "Uniswap V3 sUSD/SNX",
@@ -28,10 +28,10 @@
       "name": "Velodrome V2 USDC/sUSD",
       "dex": "velodrome",
       "chain": "Optimism",
-      "price_usd": 0.7395,
-      "depth_usd": 327887,
+      "price_usd": 0.7355,
+      "depth_usd": 326653,
       "pool_address": "0xbC26519f936A90E78fe2C9aA2A03CC208f041234",
-      "volume_24h_usd": 10289
+      "volume_24h_usd": 11440
     },
     {
       "name": "Uniswap V2 sUSD/WETH",
@@ -57,31 +57,31 @@
       "name": "Uniswap V3 sUSD/DAI",
       "dex": "uniswap",
       "chain": "Optimism",
-      "price_usd": 0.7389,
-      "depth_usd": 90460,
+      "price_usd": 0.7356,
+      "depth_usd": 90083,
       "pool_address": "0xAdb35413eC50E0Afe41039eaC8B930d313E94FA4",
-      "volume_24h_usd": 83
+      "volume_24h_usd": 87
     },
     {
       "name": "Curve sUSD/3CRV",
       "dex": "curve",
       "chain": "Optimism",
       "price_usd": 0.7336,
-      "depth_usd": 63859,
+      "depth_usd": 64042,
       "pool_address": "0x061b87122Ed14b9526A813209C8a59a633257bAb",
-      "volume_24h_usd": 824
+      "volume_24h_usd": 940
     },
     {
       "name": "Uniswap V3 WETH/sUSD",
       "dex": "uniswap",
       "chain": "Optimism",
-      "price_usd": 0.7374,
-      "depth_usd": 11688,
+      "price_usd": 0.7339,
+      "depth_usd": 11648,
       "pair_kind": "non-stable",
       "pool_address": "0x2E80d5A7B3C613d854EE43243Ff09808108561EB",
-      "volume_24h_usd": 592
+      "volume_24h_usd": 632
     }
   ],
-  "weighted_avg_price_usd": 0.7277,
-  "depeg_basis_points": -2723
+  "weighted_avg_price_usd": 0.729,
+  "depeg_basis_points": -2710
 }
